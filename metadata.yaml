@@ -1,11 +1,16 @@
 _repo: Dream-Tapestries_70284
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70284-h/images/cover.jpg
 creator:
   author:
     agent_name: Bowman, Louise Morey
     gutenberg_agent_id: '55684'
     url: http://www.gutenberg.org/2009/agents/55684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70284#Dream-Tapestries
 gutenberg_issued: '2023-03-14'
 identifiers:
   gutenberg: '70284'
